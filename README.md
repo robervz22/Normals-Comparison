@@ -1,3 +1,5 @@
-# Normals-Comparison
+# Comparacion de Normales
 
-In this file, I analyze the main topics in the statistical inference of normals comparison. The R file and the Jupyter Notebook implement the statistical analysis of two a priori normal population. The two datasets are data of time without breath from men and women. 
+Este codigo corresponde al proyecto final de la asignatura `Metodos Estadisticos` de la Universidad de Guanajuato. Aqui se analiza 
+datos de tiempos sin respirar de hombres y mujeres obtenidos en el aula. Se ajusta un modelo normal a cada base de datos y se hace 
+Inferencia Estadistica para comparar ambas muestras. 
